@@ -23,6 +23,7 @@ namespace Cap
             Float,
             Boolean,
             Int32,
+
             Double,
             // 添加其他类型...
         }
