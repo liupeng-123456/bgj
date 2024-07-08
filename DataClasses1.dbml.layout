@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="21422866-c7f4-4317-ba44-30ac8d67e898" absoluteBounds="1.625, 1.125, 2, 3.0156579589843746">
+      <DataClassMoniker Name="/DataClasses1DataContext/tbDrugConfig" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ad833565-6aa9-48c5-a70b-ae8457427263" absoluteBounds="1.6400000000000001, 1.585, 1.9700000000000002, 2.455657958984375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3fb3bd02-c427-4089-a681-b3c6c1faac9f" absoluteBounds="2.375, 5.25, 2, 1.1677168782552076">
+      <DataClassMoniker Name="/DataClasses1DataContext/tbTestDrug" />
+      <nestedChildShapes>
+        <elementListCompartment Id="71cc0fdb-a594-4f84-92e4-665455ed33f8" absoluteBounds="2.39, 5.71, 1.9700000000000002, 0.60771687825520826" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f07673c-44ca-4fb5-8967-5caa02d90eaa" absoluteBounds="6, 1.75, 2, 1.7220992024739581">
+      <DataClassMoniker Name="/DataClasses1DataContext/tbOpUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3c155d18-120d-43d3-979b-dafbdf75102c" absoluteBounds="6.015, 2.21, 1.9700000000000002, 1.1620992024739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
